@@ -45,16 +45,16 @@ li {
     max-width: 400px;
     background-color: #161c22;
     height: 500px;
-    width: 40%;
+    width: 50%;
     position: relative;
     padding-left: 3rem;
     overflow: auto;
     border-radius: 12px;
     box-shadow: 10px 11px 10px #161c22;
-    
+     
 }
 h1{
-    font-family:cursive;
+    font-family:cursive; 
 }
 #task{
     background-color: lightblue; ;
